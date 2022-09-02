@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lucas00007
-- 👀 I’m interested in ... QA, SDET, and Jave development
+- 👀 I’m interested in ... QA, SDET, and Java development
 - 🌱 I’m currently learning ... QA Testing and Java programing
 - 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ... email (jsl2149380442@gmail.com)
